@@ -1,7 +1,7 @@
 Summary:	A tool for dumping a computer's DMI table contents
 Name:		dmidecode
 Version:	2.12
-Release:	1
+Release:	2
 License:	GPL
 Group:		Applications/System
 Source0:	http://savannah.nongnu.org/download/dmidecode/%{name}-%{version}.tar.bz2
